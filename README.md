@@ -48,7 +48,7 @@
 #Why binary operations?
 - Computers use binary operations to process information (in 1s and 0s)
 - Knowing binary operations helps us understand the decision making process of a computer.
-- It is a crucial skill that can enforce data safety and threat detection.
+- It is a crucial skill that's useful in data safety and threat detection.
 ---
 
 
